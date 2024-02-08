@@ -1,12 +1,1 @@
-
-# Welcome to my GitHub profile! 👋
-
-## About Me 🕵️‍♀️💻
-
-Hey there! I'm Daniela, a cybersecurity student with a passion for all aspects of cybersecurity. I'm deeply committed to advancing my knowledge and skills in this field.
-
-## What I Do 🔍🔒
-
-- 🛡️ **Hacker**: I focus on proactive threat detection and securing information systems.
-- 💻 **Sysadmin**: Actively involved in system administration and conducting security research.
-- 📝 **Security Enthusiast**: I explore vulnerabilities and develop best practices to address them.
+![Hello GIF](https://github.com/DanielaCe18/DanielaCe18/assets/145435353/e99f719d-9226-4b62-a621-dfa1d9c0caba)
